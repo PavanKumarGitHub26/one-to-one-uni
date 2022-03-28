@@ -22,6 +22,9 @@ public class FindBranch {
 		System.out.println(address.getArea());
 		System.out.println(address.getPincode());
 		System.out.println(address.getState());
+		
+		Bat bat=new Bat();
+		bat.m1();
 
 	}
 
